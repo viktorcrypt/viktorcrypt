@@ -5,7 +5,7 @@ I dream of becoming a **great developer for Crypto** and building unique games a
 ---
 ## 🎮 My Projects
 
-- [Titanic](https://crypto-titatic.vercel.app/) 🛳
+- [Titanic](https://crypto-titatic.vercel.app/) 🛳.                
   The ship is sinking — and players must decide which tokens to save before it’s too late.
   
 - [Russian Spin](https://russian-spin.vercel.app/) 🎲  
