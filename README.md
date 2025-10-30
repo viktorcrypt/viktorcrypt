@@ -1,10 +1,13 @@
 # Hi, I'm GrishaG 👋  
 
-I dream of becoming a **great developer for Monad** and building unique games and apps on this amazing ecosystem 🚀  
+I dream of becoming a **great developer for Crypto** and building unique games and apps on this amazing ecosystem 🚀  
 
 ---
 ## 🎮 My Projects
 
+- [Titanic](https://crypto-titatic.vercel.app/) 🛳
+  The ship is sinking — and players must decide which tokens to save before it’s too late.
+  
 - [Russian Spin](https://russian-spin.vercel.app/) 🎲  
   A dark & thrilling Russian Roulette inspired game with real blockchain logic and integration with Monad Games ID.  
 
