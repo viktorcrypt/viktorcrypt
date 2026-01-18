@@ -2,20 +2,7 @@
 
 I dream of becoming a **great developer for Crypto** and building unique games and apps on this amazing ecosystem 🚀  
 
----
-## 🎮 My Projects
 
-- [Titanic](https://crypto-titatic.vercel.app/) 🛳.                
-  The ship is sinking — and players must decide which tokens to save before it’s too late.
-  
-- [Russian Spin](https://russian-spin.vercel.app/) 🎲  
-  A dark & thrilling Russian Roulette inspired game with real blockchain logic and integration with Monad Games ID.  
-
-- [TGE Prophecy Wall](https://tegemona.vercel.app/) 🧱  
-  A collaborative prophecy wall where users draw and predict the date of Monad TGE, synced live through Multisynq and stored on-chain.  
-
-✨ More Monad projects coming soon... 
----
 
 ## 🛠️ Tech Stack  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
