@@ -1,4 +1,4 @@
-# Hi, I'm GrishaG 👋  
+GrishaG 
 
 I dream of becoming a **great developer for Crypto** and building unique games and apps on this amazing ecosystem 🚀  
 
