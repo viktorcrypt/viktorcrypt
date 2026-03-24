@@ -22,7 +22,6 @@ I dream of becoming a **great developer for Crypto** and building unique games a
 ---
 
 ## 📫 Connect
-- GitHub: [viktorcrypt](https://github.com/viktorcrypt)  
 - Twitter (X): [@MeganOe75615831](https://x.com/MeganOe75615831)  
 
 
