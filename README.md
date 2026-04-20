@@ -12,7 +12,7 @@ I dream of becoming a **great developer for Crypto** and building unique games a
 ---
 
 ## 📫 Connect
-- Twitter (X): [@MeganOe75615831](https://x.com/MeganOe75615831)  
+- Twitter (X): [@MeganNickain](https://x.com/MeganNickain)  
 
 
 <!--
